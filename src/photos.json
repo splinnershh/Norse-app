@@ -1,0 +1,67 @@
+{
+  "post_1": {
+    "img": ["post-img.png"],
+    "category": "Hair",
+    "title": "Title",
+    "content": "I stand corrected she is a real bum",
+    "author": "ADVO",
+    "tags1": "Fade",
+    "tags2": "Hair",
+    "link": "https://google.com"
+  },
+  "post_2": {
+    "img": ["barber-2.jpg"],
+    "category": "Hair",
+    "title": "Test",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
+    "author": "ADVO",
+    "tags1": "Fade",
+    "tags2": "Hair"
+  },
+  "post_3": {
+    "img": ["barber-1.png"],
+    "category": "Hair",
+    "title": "Test",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
+    "author": "ADVO",
+    "tags1": "Fade",
+    "tags2": "Hair"
+  },
+  "post_4": {
+    "img": ["barber-1.png"],
+    "category": "Hair",
+    "title": "Test",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
+    "author": "ADVO",
+    "tags1": "Fade",
+    "tags2": "Hair"
+  },
+  "post_5": {
+    "img": ["barber-1.png"],
+    "category": "Hair",
+    "title": "Test",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
+    "author": "ADVO",
+    "tags1": "Fade",
+    "tags2": "Hair"
+  },
+  "post_6": {
+    "id": 3,
+    "img": ["barber-1.png"],
+    "category": "Hair",
+    "title": "Test",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
+    "author": "ADVO",
+    "tags1": "Fade",
+    "tags2": "Hair"
+  },
+  "post_7": {
+    "img": ["barber-1.png"],
+    "category": "Hair",
+    "title": "Test",
+    "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
+    "author": "ADVO",
+    "tags1": "Fade",
+    "tags2": "Hair"
+  }
+}
