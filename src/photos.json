@@ -10,7 +10,7 @@
     "link": "https://google.com"
   },
   "post_2": {
-    "img": ["barber-2.jpg"],
+    "img": ["post-img.png"],
     "category": "Hair",
     "title": "Test",
     "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
@@ -19,7 +19,7 @@
     "tags2": "Hair"
   },
   "post_3": {
-    "img": ["barber-1.png"],
+    "img": ["post-img.png"],
     "category": "Hair",
     "title": "Test",
     "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
@@ -28,7 +28,7 @@
     "tags2": "Hair"
   },
   "post_4": {
-    "img": ["barber-1.png"],
+    "img": ["post-img.png"],
     "category": "Hair",
     "title": "Test",
     "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus ratione harum eaque, animi nulla tempore quis, quam voluptatum.",
