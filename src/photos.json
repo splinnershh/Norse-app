@@ -12,7 +12,7 @@
   "post_2": {
     "img": ["post-img.png"],
     "category": "Hair",
-    "title": "Test",
+    "title": "Haircut",
     "content": "This is a test for github",
     "author": "ADVO",
     "tags1": "Fade",
