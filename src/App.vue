@@ -12,6 +12,9 @@
                 About
               </a>
               <a class="navbar-item">
+                #
+              </a>
+              <a class="navbar-item">
                 Prices
               </a>
               <a class="navbar-item">
