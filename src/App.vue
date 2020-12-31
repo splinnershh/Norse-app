@@ -49,6 +49,16 @@
         </div>
       </div>
     </section>
+    <h1>Routing Example</h1>
+    <p>
+      <a class="button is-primary">
+        <router-link to="/about">Router Link 1</router-link></a
+      >
+      <router-link to="/route2">Router Link 2</router-link>
+    </p>
+    <!-- route outlet -->
+    <!-- component matched by the route will render here -->
+    <router-view></router-view>
 
     <section class="body">
       <div class="container">
